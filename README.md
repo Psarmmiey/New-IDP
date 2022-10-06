@@ -1,6 +1,6 @@
-Empathie is our software solution that addresses the following socio-economic needs of IDPs:
+Empathie is our software solution that addresses the following socio-economic needs of IDPs.
 
-Providing statistics of registered IDPs for management purposes, statistics in terms of age distribution, demography in order to understand their socio-economic needs such as education, employment etc.
+It helps by Providing statistics of registered IDPs for management purposes, statistics in terms of age distribution, demography in order to understand their socio-economic needs such as education, employment etc.
 
 One major problem of IDPs is reconnecting with their families and their people. Empathie provides a platform for searching and identifying IDPs that are related.
 
